@@ -1,12 +1,36 @@
-# React + Vite
+# 🌟 FocusForge
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**FocusForge** is a clean, minimalist platform built with React + Vite, designed for publishing **inspirational and motivational articles**.
 
-Currently, two official plugins are available:
+Whether you're here to read, write, or just wander — this platform aims to spark growth, fuel positivity, and leave you better than you came.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 📄 Browse motivational articles
+- 🧠 Submit your own story (as an author)
+- 🧵 Categories & related articles
+- 💌 Newsletter subscription
+- 📬 Contact page with social links
+- 📱 Fully responsive & modern UI
+- ⚡ Built with React, Vite & TailwindCSS
+
+---
+
+## 🛠 Tech Stack
+
+- **Frontend:** React.js + Vite
+- **Styling:** TailwindCSS
+- **Routing:** React Router
+- **Icons:** Custom image-based icons (can be upgraded to Lucide/FontAwesome)
+
+---
+
+## 🔧 Setup Locally
+
+```bash
+git clone https://github.com/Raphael-80/Focus_Forge.git
+cd Focus_Forge
+npm install
+npm run dev
